@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owjdtnwlso)](https://solved.ac/owjdtnwlso/) 
+<img src="http://mazandi.herokuapp.com/api?handle=owjdtnwlso&theme=warm"/>
 <!--
 **sujin13/sujin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
